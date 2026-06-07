@@ -167,7 +167,8 @@ We are actively seeking researchers, teachers, students, and community members i
 * Browse Student Portfolios
 * Contribute an Experiment
 * Start a Classroom Sprint
-
+* [Repository Types](docs/repository-types.md)
+* [Governance](docs/governance.md)
 ⸻
 
 > School of Thoughts exists to help people learn how to think, act, contribute, and thrive.
