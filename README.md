@@ -1,4 +1,4 @@
-# School of Thoughts
+y# School of Thoughts
 
 > School of Thoughts is an open-source education operating system that helps learners develop agency through mission-driven experiments, sprint-based learning, and real-world contribution.
 
@@ -160,7 +160,9 @@ We are actively seeking researchers, teachers, students, and community members i
 
 ## Learn More
 
-* Read the Whitepaper
+## Learn More
+
+* Raad the [School of Thoughts Whitepaper](https://docs.google.com/document/d/1Acl9UTvVMQUpzKJaxT9QhmfYgKif77NC/edit?usp=sharing&ouid=115829713897392962015&rtpof=true&sd=true)
 * Explore Mission Repositories
 * Browse Student Portfolios
 * Contribute an Experiment
